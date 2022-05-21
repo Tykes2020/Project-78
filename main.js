@@ -1,5 +1,5 @@
 var images = ["https://i.postimg.cc/MKdhy06Z/family.jpg","Grandpa.jpeg", "Grandma.jpeg" , "Dad.jpeg", "Mom.jpeg", "Daughter.png", "Son.jpeg", "Daksh.jpeg"];
-var names = ["Family Book","Grandpa", "Grandma", "Daddy", "Mommy", "Daughter", "Son", "Brother"];
+var names = ["Family Book","Grandpa", "Grandma", "Daddy", "Mommy", "Sister", "Son", "Brother"];
 var i = 0;
 function update()
 {
